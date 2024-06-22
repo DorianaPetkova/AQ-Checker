@@ -107,7 +107,7 @@
         </ul>
     </div>
     <div class="section contact-info">
-        <p>This project was created by the one and only : "TRQBVA NI IME"</p>
+        <p>This project was created by the one and only : "Ponylypsis"</p>
         <p>Irina Semenyakina - <a href="mailto:kittifeya@gmail.com">kittifeya@gmail.com</a></p>
         <p>Doriana Petkova – <a href="mailto:doriana.petkova@gmail.com">doriana.petkova@gmail.com</a></p>
     </div>
