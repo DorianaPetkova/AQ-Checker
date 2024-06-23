@@ -42,6 +42,7 @@
                 </ul>
             </li>
         </ul>
+        <img src="Group 2.png" alt="what to do">
     </div>
     <div class="section">
         <h2>Circuit Diagram</h2>
@@ -104,12 +105,14 @@
             <li>Check all connections and ensure they are properly secured.</li>
             <li>Make sure you've added your WiFi name/password, as well as your API key into the code.</li>
             <li>Ensure that the LED's potentiometer is working properly.</li>
+             <img src="group 1.png" alt="what to do">
         </ul>
     </div>
     <div class="section contact-info">
         <p>This project was created by the one and only : "Ponylypsis"</p>
         <p>Irina Semenyakina - <a href="mailto:kittifeya@gmail.com">kittifeya@gmail.com</a></p>
         <p>Doriana Petkova – <a href="mailto:doriana.petkova@gmail.com">doriana.petkova@gmail.com</a></p>
+         <img src="ponies.png" alt="The team">
     </div>
 </body>
 </html>
