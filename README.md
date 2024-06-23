@@ -42,11 +42,10 @@
                 </ul>
             </li>
         </ul>
-        <img src="Group 2.png" alt="what to do">
     </div>
     <div class="section">
         <h2>Circuit Diagram</h2>
-        <p>(Insert Circuit Diagram Image Here)</p>
+      <img src="Group 2.png" alt="what to do">
     </div>
     <div class="section">
         <h2>How to set up ThingSpeak</h2>
